@@ -1,4 +1,4 @@
-````markdown
+
 # VidTube Backend API
 
 A scalable RESTful backend for a YouTube-inspired video sharing platform built with **Node.js**, **Express.js**, and **MongoDB**. The application provides secure user authentication, video management, subscriptions, playlists, comments, likes, watch history, dashboard analytics, and cloud-based media storage.
