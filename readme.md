@@ -305,4 +305,3 @@ The course provided the learning roadmap, project architecture, and starter impl
 # License
 
 This project is intended for educational and learning purposes.
-````
